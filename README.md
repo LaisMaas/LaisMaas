@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%%%Projects&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%'%'%rojects&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Lopes;I+from+São+Paulo,+SP;I+study+Computer+Engineering+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
   
 
 <div align="center">  
-<a href="[https://www.instagram.com/mthalvarez_/](https://www.linkedin.com/in/laismaas/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="[(https://www.linkedin.com/in/laismaas/)]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
