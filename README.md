@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%'%'%rojects&descAlignY=51&descAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%'%'%rojects&descAlignY=51&descAlign=62)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Lopes;I+from+São+Paulo,+SP;I+study+Computer+Engineering+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=27&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Lopes;I+from+São+Paulo,+SP;I+study+Computer+Engineering+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LaisMaas&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Laís Lopes github stats" /> 
