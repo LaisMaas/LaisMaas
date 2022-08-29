@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%'%'%rojects&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=300&section=header&text=Laís%20Lopes&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%'%'%rojects&descAlignY=51&descAlign=52)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Laís+Lopes;I+from+São+Paulo,+SP;I+study+Computer+Engineering+at+Univesp;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
